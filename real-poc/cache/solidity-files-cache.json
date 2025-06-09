@@ -1,0 +1,79 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/backdark/İndirilenler/ssv-reentrancy-poc-updated/contracts/ReentrancyAttacker.sol": {
+      "lastModificationDate": 1749467458010,
+      "contentHash": "c521e454555e3b98ccb1bf2d296d088e",
+      "sourceName": "contracts/ReentrancyAttacker.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.24"
+      ],
+      "artifacts": [
+        "ISSVOperators",
+        "ReentrancyAttacker"
+      ]
+    },
+    "/home/backdark/İndirilenler/ssv-reentrancy-poc-updated/contracts/SSVOperators.sol": {
+      "lastModificationDate": 1749466887750,
+      "contentHash": "b4650b243cb222a1c4e10eedf19868f8",
+      "sourceName": "contracts/SSVOperators.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.24"
+      ],
+      "artifacts": [
+        "ISSVOperators",
+        "SSVOperators"
+      ]
+    }
+  }
+}

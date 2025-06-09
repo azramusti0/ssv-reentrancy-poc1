@@ -1,0 +1,78 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/backdark/İndirilenler/ssv-reentrancy-mock-poc/contracts/ReentrancyAttacker.sol": {
+      "lastModificationDate": 1749468377331,
+      "contentHash": "13dc12448349ca87ec2a1436e4a8f5f2",
+      "sourceName": "contracts/ReentrancyAttacker.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.24"
+      ],
+      "artifacts": [
+        "ISSVOperators",
+        "ReentrancyAttacker"
+      ]
+    },
+    "/home/backdark/İndirilenler/ssv-reentrancy-mock-poc/contracts/SSVOperatorsMock.sol": {
+      "lastModificationDate": 1749468377330,
+      "contentHash": "095f2be3190a66b3b6a4ec1215cb4f58",
+      "sourceName": "contracts/SSVOperatorsMock.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "SSVOperatorsMock"
+      ]
+    }
+  }
+}

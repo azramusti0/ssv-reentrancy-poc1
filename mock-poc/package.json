@@ -1,0 +1,11 @@
+{
+  "name": "ssv-reentrancy-mock",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.17.0"
+  }
+}
